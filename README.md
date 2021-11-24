@@ -2,8 +2,9 @@
 
 <h3 align="center">I'm a passionate web developper Junior from Nantes (France)</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">About me:</h3>
 <p align="left">
+  after 11 years working in transport logistics, I took a turn in my professional career by deciding to turn to the profession of web developer.</br>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
