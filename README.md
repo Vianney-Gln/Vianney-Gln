@@ -7,7 +7,7 @@
   After 11 years working in transport logistics, I took a turn in my professional career by deciding to turn to the profession of web developer.</br>
   More than a year ago I started learning this profession on my own, starting with html, css, javascript, php, and mysql.</br>
   Then, I joined the Wild Code School to deepen my knowledge.</br>
-  This training ends on February 14 and I am looking for an end-of-study internship from that date</br>
+  Today i'm working on personnals projects waiting to be hired as a developper </br>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
